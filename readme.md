@@ -1,3 +1,4 @@
+
 [Grind 75 Leetcode Article](https://leetcode.com/discuss/general-discussion/5346886/Grind-75-Leetcode-Questions)
 
 | **S No** | **Category**    | **Problem**                                                                                                                                           | **Solution**                                                                              |
@@ -47,3 +48,13 @@
 | 46       | `Binary-Search` | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                       | [Solution](./Binary-Search/03_search_in_rotated_sorted_array.ts)                          |
 | 47       | `Binary-Search` | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                               | [Solution](./Binary-Search/04_time_based_key_value_store.ts)                              |
 | 48       | `Binary-Search` | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                                                   | [Solution](./Binary-Search/05_maximum_profit_in_job_scheduling.ts)                        |
+| 49 | `Graph` | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](./Graph/01_flood_fill.ts) |
+| 50	 | `Graph` | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Solution](./Graph/02_01_matrix.ts) |
+| 51 | `Graph` | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/03_clone_graph.ts) |
+| 52 | `Graph` | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/04_course_schedule.ts) |
+| 53 | `Graph` | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Graph/05_number_of_islands.ts) |
+| 54 | `Graph` | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution](./Graph/06_rotting_oranges.ts) |
+| 55 | `Graph` | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Solution](./Graph/07_accounts_merge.ts) |
+| 56 | `Graph` | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Graph/08_word_search.ts) |
+| 57 | `Graph` | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Solution](./Graph/09_minimum_height_trees.ts) |
+| 58 | `Graph` | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](./Graph/10_word_ladder.ts) |
